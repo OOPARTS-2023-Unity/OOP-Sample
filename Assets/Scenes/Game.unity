@@ -1132,6 +1132,7 @@ MonoBehaviour:
   enemyPrefabs:
   - {fileID: 8061240307010154425, guid: bbe831847a1334a498af3522eaa35abd, type: 3}
   - {fileID: 8240139447796649703, guid: f5bd793e7a47448a7bcdee09fa8055b4, type: 3}
+  - {fileID: 5781994031834152871, guid: 721a1792742824e2bada5ae0dd8ab65f, type: 3}
   player: {fileID: 1612995009}
   INSTANTIATE_TIME: 7
 --- !u!4 &1226254938

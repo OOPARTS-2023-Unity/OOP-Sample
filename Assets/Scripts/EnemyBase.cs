@@ -6,7 +6,7 @@ public class EnemyBase : CharacterBase
 {
     protected GameObject player;
 
-    private float currentTime;
+    protected float currentTime;
     private const float MOVETIME = 2f;
     private const float MOVE_MAGNITUDE = 120f;
 
